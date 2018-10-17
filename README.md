@@ -12,3 +12,4 @@
 ### 머지가 먼저야 커밋이 먼저야? 머지가 먼저 인거 같음
 
 # release
+## release to develop
